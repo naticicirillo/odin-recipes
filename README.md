@@ -5,5 +5,8 @@ So, here's the deal: the website's centerpiece will be the main index page which
 
 But here's the thing, this project is all about honing my HTML skills, and I'm totally on board for that. I'm going to circle back to it down the road to sprinkle some CSS magic🪄 and make it look fantastic. So, I'm rolling up my sleeves, and let's embark on this journey to level up my HTML game!
 
+
 Updates
+
 9/2/23 - Added some CSS. Still looking rough😅.
+8/11/23 - Making some progress.
